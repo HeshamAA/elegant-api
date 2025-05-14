@@ -151,211 +151,1757 @@
   ],
   "products": [
     {
-      "id": "1",
-      "title": "Regular Fit Jersey top",
-      "price": "251",
+      "id": 1,
+      "title": "قميص صيفي",
+      "price": 168.14,
+      "originalPrice": 200.55,
       "cat_prefix": "men",
-      "sizes": ["S", "M", "XXL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "desc": "Comfortable regular fit jersey top made from soft cotton fabricty."
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "قميص صيفي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": true,
+      "rating": 4.8,
+      "reviews": 90,
+      "stock": 37,
+      "sold": 30
     },
     {
-      "id": "2",
-      "title": "Regular Fit Jersey top",
-      "price": 229,
+      "id": 2,
+      "title": "قميص صيفي",
+      "price": 313.54,
+      "originalPrice": 393.01,
       "cat_prefix": "men",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "desc": "Stylish jersey top with a regular fit, perfect for casual wear."
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "قميص صيفي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": true,
+      "rating": 3.7,
+      "reviews": 105,
+      "stock": 71,
+      "sold": 4
     },
     {
-      "id": "3",
-      "title": "Cotton polo shirt",
-      "price": 200,
+      "id": 3,
+      "title": "بلوفر شتوي",
+      "price": 260.56,
+      "originalPrice": 330.47,
       "cat_prefix": "men",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
-      "desc": "Classic cotton polo shirt with a comfortable and breathable design."
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "بلوفر شتوي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.6,
+      "reviews": 180,
+      "stock": 87,
+      "sold": 49
     },
     {
-      "id": "4",
-      "title": "Cotton t-shirt",
-      "price": 100,
+      "id": 4,
+      "title": "بلوفر شتوي",
+      "price": 315.02,
+      "originalPrice": null,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "بلوفر شتوي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.9,
+      "reviews": 78,
+      "stock": 19,
+      "sold": 22
+    },
+    {
+      "id": 5,
+      "title": "تيشيرت رجالي كلاسيك",
+      "price": 389.89,
+      "originalPrice": null,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "تيشيرت رجالي كلاسيك مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.5,
+      "reviews": 12,
+      "stock": 83,
+      "sold": 24
+    },
+    {
+      "id": 6,
+      "title": "قميص صيفي",
+      "price": 267.9,
+      "originalPrice": 324.33,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "قميص صيفي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": true,
+      "rating": 4.2,
+      "reviews": 12,
+      "stock": 15,
+      "sold": 22
+    },
+    {
+      "id": 7,
+      "title": "تيشيرت رجالي كلاسيك",
+      "price": 138.65,
+      "originalPrice": 163.72,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "تيشيرت رجالي كلاسيك مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": true,
+      "rating": 5.0,
+      "reviews": 139,
+      "stock": 45,
+      "sold": 6
+    },
+    {
+      "id": 8,
+      "title": "جاكيت جلد",
+      "price": 259.62,
+      "originalPrice": null,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "جاكيت جلد مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.2,
+      "reviews": 132,
+      "stock": 59,
+      "sold": 1
+    },
+    {
+      "id": 9,
+      "title": "قميص صيفي",
+      "price": 262.25,
+      "originalPrice": null,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "قميص صيفي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 3.9,
+      "reviews": 65,
+      "stock": 66,
+      "sold": 43
+    },
+    {
+      "id": 10,
+      "title": "تيشيرت رجالي كلاسيك",
+      "price": 218.19,
+      "originalPrice": 287.84,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "تيشيرت رجالي كلاسيك مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.7,
+      "reviews": 118,
+      "stock": 69,
+      "sold": 33
+    },
+    {
+      "id": 11,
+      "title": "قميص صيفي",
+      "price": 230.94,
+      "originalPrice": null,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "قميص صيفي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 3.9,
+      "reviews": 124,
+      "stock": 86,
+      "sold": 45
+    },
+    {
+      "id": 12,
+      "title": "جاكيت جلد",
+      "price": 352.13,
+      "originalPrice": null,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "جاكيت جلد مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.3,
+      "reviews": 17,
+      "stock": 27,
+      "sold": 24
+    },
+    {
+      "id": 13,
+      "title": "جاكيت جلد",
+      "price": 155.23,
+      "originalPrice": 202.94,
+      "cat_prefix": "men",
+      "subCategory": "تيشيرتات",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "جاكيت جلد مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 3.8,
+      "reviews": 26,
+      "stock": 72,
+      "sold": 17
+    },
+    {
+      "id": 14,
+      "title": "عباية سوداء",
+      "price": 359.75,
+      "originalPrice": 416.34,
       "cat_prefix": "women",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
-      "desc": "Soft and versatile cotton t-shirt for everyday wearSoft and versatile cotton t-shirt for everyday wearSoft and versatile cotton t-shirt for everyday wearSoft and versatile cotton t-shirt for everyday wearSoft and versatile cotton t-shirt for everyday wear."
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "عباية سوداء مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": true,
+      "rating": 4.8,
+      "reviews": 68,
+      "stock": 89,
+      "sold": 33
     },
     {
-      "id": "5",
-      "title": "Sweatshirt shorts",
-      "price": 300,
+      "id": 15,
+      "title": "عباية سوداء",
+      "price": 101.53,
+      "originalPrice": null,
       "cat_prefix": "women",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
-      "desc": "Comfortable sweatshirt shorts with an elastic waistband."
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "عباية سوداء مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.0,
+      "reviews": 27,
+      "stock": 85,
+      "sold": 26
     },
     {
-      "id": "6",
-      "title": "Velour top",
-      "price": 300,
-      "cat_prefix": "kids",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
-      "desc": "Stylish velour top for kids, made from soft and cozy fabric."
-    },
-    {
-      "id": "7",
-      "title": "Velour pants",
-      "price": 300,
-      "cat_prefix": "kids",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
-      "desc": "Soft velour pants for kids, perfect for comfort and style."
-    },
-    {
-      "id": "8",
-      "title": "Regular Fit football shirt",
-      "price": 449,
-      "cat_prefix": "sport",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
-      "desc": "Football shirt with a regular fit, designed for active sportswear."
-    },
-    {
-      "id": "9",
-      "title": "Regular Fit Jersey top",
-      "price": 249,
-      "cat_prefix": "men",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "desc": "Versatile jersey top for men, featuring a regular fit and soft fabric."
-    },
-    {
-      "id": "10",
-      "title": "Regular Fit Jersey top",
-      "price": 229,
-      "cat_prefix": "men",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "desc": "Comfortable jersey top designed for a regular fit and easy movement."
-    },
-    {
-      "id": "11",
-      "title": "Cotton polo shirt",
-      "price": 200,
-      "cat_prefix": "men",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
-      "desc": "Classic cotton polo shirt ideal for casual and semi-formal wear."
-    },
-    {
-      "id": "12",
-      "title": "Cotton t-shirt",
-      "price": 100,
+      "id": 16,
+      "title": "فستان صيفي",
+      "price": 316.32,
+      "originalPrice": 378.27,
       "cat_prefix": "women",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
-      "desc": "Everyday cotton t-shirt offering a relaxed fit and comfort."
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "فستان صيفي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.5,
+      "reviews": 77,
+      "stock": 100,
+      "sold": 25
     },
     {
-      "id": "13",
-      "title": "Sweatshirt shorts",
-      "price": 300,
+      "id": 17,
+      "title": "تنورة كاجوال",
+      "price": 228.54,
+      "originalPrice": null,
       "cat_prefix": "women",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
-      "desc": "Relaxed fit sweatshirt shorts, perfect for leisure activities."
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "تنورة كاجوال مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.3,
+      "reviews": 25,
+      "stock": 34,
+      "sold": 50
     },
     {
-      "id": "14",
-      "title": "Velour top",
-      "price": 300,
+      "id": 18,
+      "title": "فستان صيفي",
+      "price": 368.22,
+      "originalPrice": null,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "فستان صيفي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.0,
+      "reviews": 17,
+      "stock": 54,
+      "sold": 11
+    },
+    {
+      "id": 19,
+      "title": "عباية سوداء",
+      "price": 167.12,
+      "originalPrice": 231.99,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "عباية سوداء مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 4.5,
+      "reviews": 124,
+      "stock": 30,
+      "sold": 13
+    },
+    {
+      "id": 20,
+      "title": "قميص رسمي",
+      "price": 104.78,
+      "originalPrice": null,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "قميص رسمي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.9,
+      "reviews": 36,
+      "stock": 86,
+      "sold": 50
+    },
+    {
+      "id": 21,
+      "title": "بلوزة حرير",
+      "price": 190.97,
+      "originalPrice": null,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "بلوزة حرير مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 5.0,
+      "reviews": 70,
+      "stock": 19,
+      "sold": 4
+    },
+    {
+      "id": 22,
+      "title": "تنورة كاجوال",
+      "price": 121.62,
+      "originalPrice": null,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "تنورة كاجوال مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.3,
+      "reviews": 32,
+      "stock": 64,
+      "sold": 49
+    },
+    {
+      "id": 23,
+      "title": "بلوزة حرير",
+      "price": 267.08,
+      "originalPrice": 294.73,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "بلوزة حرير مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 3.9,
+      "reviews": 46,
+      "stock": 69,
+      "sold": 28
+    },
+    {
+      "id": 24,
+      "title": "قميص رسمي",
+      "price": 362.01,
+      "originalPrice": null,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "قميص رسمي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.2,
+      "reviews": 96,
+      "stock": 93,
+      "sold": 34
+    },
+    {
+      "id": 25,
+      "title": "قميص رسمي",
+      "price": 268.58,
+      "originalPrice": 338.15,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "قميص رسمي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.6,
+      "reviews": 68,
+      "stock": 94,
+      "sold": 1
+    },
+    {
+      "id": 26,
+      "title": "فستان صيفي",
+      "price": 262.1,
+      "originalPrice": 283.92,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "فستان صيفي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": true,
+      "rating": 4.1,
+      "reviews": 57,
+      "stock": 83,
+      "sold": 19
+    },
+    {
+      "id": 27,
+      "title": "قميص رسمي",
+      "price": 146.56,
+      "originalPrice": 197.15,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e",
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "قميص رسمي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 3.6,
+      "reviews": 137,
+      "stock": 32,
+      "sold": 6
+    },
+    {
+      "id": 28,
+      "title": "عباية سوداء",
+      "price": 274.92,
+      "originalPrice": 347.43,
+      "cat_prefix": "women",
+      "subCategory": "فساتين",
+      "images": [
+        "https://images.unsplash.com/photo-1520975918310-7f4e5e6c8e6f",
+        "https://images.unsplash.com/photo-1514995669114-1e3c5e5e5e5e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "desc": "عباية سوداء مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.5,
+      "reviews": 77,
+      "stock": 71,
+      "sold": 17
+    },
+    {
+      "id": 29,
+      "title": "هودي صغير",
+      "price": 254.07,
+      "originalPrice": 333.44,
       "cat_prefix": "kids",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
-      "desc": "Cozy velour top for kids, designed for warmth and comfort."
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "هودي صغير مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 3.6,
+      "reviews": 199,
+      "stock": 86,
+      "sold": 18
     },
     {
-      "id": "15",
-      "title": "Velour pants",
-      "price": 300,
+      "id": 30,
+      "title": "بدلة أطفال",
+      "price": 359.52,
+      "originalPrice": null,
       "cat_prefix": "kids",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
-      "desc": "Comfortable velour pants for kids, perfect for everyday wear."
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "بدلة أطفال مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 3.9,
+      "reviews": 154,
+      "stock": 39,
+      "sold": 39
     },
     {
-      "id": "16",
-      "title": "Regular Fit football shirt",
-      "price": 449,
-      "cat_prefix": "sport",
-      "sizes": ["M", "L", "XL"],
-      "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
-      "desc": "Sporty football shirt with a regular fit, ideal for training and matches."
+      "id": 31,
+      "title": "تيشيرت أطفال",
+      "price": 233.55,
+      "originalPrice": 296.82,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "تيشيرت أطفال مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.3,
+      "reviews": 92,
+      "stock": 61,
+      "sold": 26
     },
     {
-      "title": "Regular Fit Jersey top",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "desc": "Comfortable regular fit jersey top made from soft cotton fabricty.",
-      "price": 249,
-      "cat_prefix": "men",
-      "sizes": ["S", "M", "L"],
-      "id": "aesmEwX"
+      "id": 32,
+      "title": "جاكيت شتوي",
+      "price": 382.19,
+      "originalPrice": 409.41,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "جاكيت شتوي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 3.7,
+      "reviews": 102,
+      "stock": 97,
+      "sold": 49
     },
     {
-      "title": "Regular Fit Jersey top",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "desc": "Comfortable regular fit jersey top made from soft cotton fabricyy.",
-      "price": 249,
-      "cat_prefix": "men",
-      "sizes": ["M", "XL"],
-      "id": "BZilWRX"
+      "id": 33,
+      "title": "جاكيت شتوي",
+      "price": 399.8,
+      "originalPrice": null,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "جاكيت شتوي مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.7,
+      "reviews": 175,
+      "stock": 50,
+      "sold": 23
     },
     {
-      "title": "Awesome Jacket",
-      "img": "https://i.pinimg.com/564x/b0/9d/ce/b09dce1fbeeec696d0c581cf4cff3163.jpg",
-      "desc": "An Awesome jacket for winter",
-      "price": "350",
-      "cat_prefix": "men",
-      "sizes": ["S", "L", "XL"],
-      "id": "wnxOVUY"
+      "id": 34,
+      "title": "هودي صغير",
+      "price": 224.8,
+      "originalPrice": null,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "هودي صغير مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": false,
+      "rating": 4.4,
+      "reviews": 82,
+      "stock": 58,
+      "sold": 17
     },
     {
-      "title": "stylish",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSya_RH2Kt3LptFzgbedVrxUPVqxwj0TTjRmQ&s",
-      "desc": "hello",
-      "price": "2500",
-      "cat_prefix": "men",
-      "sizes": ["S", "M", "XL"],
-      "id": "SGp9oAB"
+      "id": 35,
+      "title": "سروال قصير",
+      "price": 132.83,
+      "originalPrice": null,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "سروال قصير مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.7,
+      "reviews": 163,
+      "stock": 44,
+      "sold": 38
     },
     {
-      "desc": "",
-      "cat_prefix": "--Category--",
-      "title": "",
-      "img": "",
-      "sizes": [],
-      "price": "",
-      "id": "xbKAIuh"
+      "id": 36,
+      "title": "تيشيرت أطفال",
+      "price": 256.94,
+      "originalPrice": 297.75,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "تيشيرت أطفال مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.5,
+      "reviews": 109,
+      "stock": 29,
+      "sold": 7
     },
     {
-      "title": "asd",
-      "img": "asdasdasd",
-      "sizes": ["L", "XL"],
-      "desc": "asdasd",
-      "price": "234",
-      "cat_prefix": "men",
-      "id": "d616tlU"
+      "id": 37,
+      "title": "بدلة أطفال",
+      "price": 212.9,
+      "originalPrice": 268.65,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "بدلة أطفال مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": true,
+      "rating": 3.7,
+      "reviews": 169,
+      "stock": 22,
+      "sold": 16
     },
     {
-      "title": "hesh",
-      "img": "asdads",
-      "sizes": ["M", "S"],
-      "desc": "asdasd",
-      "price": "123123",
-      "cat_prefix": "men",
-      "id": "_B6muUZ"
+      "id": 38,
+      "title": "جاكيت شتوي",
+      "price": 149.81,
+      "originalPrice": 204.99,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "جاكيت شتوي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.6,
+      "reviews": 133,
+      "stock": 30,
+      "sold": 21
+    },
+    {
+      "id": 39,
+      "title": "بدلة أطفال",
+      "price": 374.97,
+      "originalPrice": 445.11,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "بدلة أطفال مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 3.5,
+      "reviews": 40,
+      "stock": 71,
+      "sold": 28
+    },
+    {
+      "id": 40,
+      "title": "هودي صغير",
+      "price": 203.12,
+      "originalPrice": 252.07,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "هودي صغير مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": true,
+      "rating": 4.6,
+      "reviews": 164,
+      "stock": 81,
+      "sold": 6
+    },
+    {
+      "id": 41,
+      "title": "جاكيت شتوي",
+      "price": 154.48,
+      "originalPrice": null,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "جاكيت شتوي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.2,
+      "reviews": 189,
+      "stock": 57,
+      "sold": 16
+    },
+    {
+      "id": 42,
+      "title": "سروال قصير",
+      "price": 326.66,
+      "originalPrice": null,
+      "cat_prefix": "kids",
+      "subCategory": "بدل",
+      "images": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "desc": "سروال قصير مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 3.9,
+      "reviews": 108,
+      "stock": 77,
+      "sold": 5
+    },
+    {
+      "id": 43,
+      "title": "تيشيرت لياقة",
+      "price": 379.86,
+      "originalPrice": 404.81,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "تيشيرت لياقة مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": true,
+      "rating": 4.6,
+      "reviews": 35,
+      "stock": 77,
+      "sold": 8
+    },
+    {
+      "id": 44,
+      "title": "قميص تمرين",
+      "price": 317.39,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "قميص تمرين مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.7,
+      "reviews": 111,
+      "stock": 20,
+      "sold": 2
+    },
+    {
+      "id": 45,
+      "title": "تيشيرت لياقة",
+      "price": 314.71,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "تيشيرت لياقة مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.5,
+      "reviews": 36,
+      "stock": 34,
+      "sold": 27
+    },
+    {
+      "id": 46,
+      "title": "سترة رياضية",
+      "price": 154.08,
+      "originalPrice": 181.95,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "سترة رياضية مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 4.4,
+      "reviews": 126,
+      "stock": 59,
+      "sold": 12
+    },
+    {
+      "id": 47,
+      "title": "قميص تمرين",
+      "price": 265.3,
+      "originalPrice": 344.9,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "قميص تمرين مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": true,
+      "rating": 3.8,
+      "reviews": 18,
+      "stock": 40,
+      "sold": 38
+    },
+    {
+      "id": 48,
+      "title": "تيشيرت لياقة",
+      "price": 167.33,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "تيشيرت لياقة مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.2,
+      "reviews": 150,
+      "stock": 77,
+      "sold": 8
+    },
+    {
+      "id": 49,
+      "title": "قميص تمرين",
+      "price": 255.64,
+      "originalPrice": 328.41,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "قميص تمرين مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": true,
+      "rating": 4.8,
+      "reviews": 36,
+      "stock": 36,
+      "sold": 22
+    },
+    {
+      "id": 50,
+      "title": "سروال جيم",
+      "price": 238.99,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "سروال جيم مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.3,
+      "reviews": 136,
+      "stock": 45,
+      "sold": 34
+    },
+    {
+      "id": 51,
+      "title": "حذاء رياضي",
+      "price": 127.72,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "حذاء رياضي مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.7,
+      "reviews": 184,
+      "stock": 95,
+      "sold": 46
+    },
+    {
+      "id": 52,
+      "title": "سروال جيم",
+      "price": 178.88,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "سروال جيم مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 5.0,
+      "reviews": 37,
+      "stock": 57,
+      "sold": 7
+    },
+    {
+      "id": 53,
+      "title": "قميص تمرين",
+      "price": 390.88,
+      "originalPrice": 449.19,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "قميص تمرين مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": true,
+      "sale": true,
+      "rating": 4.2,
+      "reviews": 91,
+      "stock": 79,
+      "sold": 11
+    },
+    {
+      "id": 54,
+      "title": "قميص تمرين",
+      "price": 209.11,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "أسود",
+        "رمادي",
+        "أبيض"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "قميص تمرين مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": true,
+      "sale": false,
+      "rating": 4.5,
+      "reviews": 121,
+      "stock": 55,
+      "sold": 47
+    },
+    {
+      "id": 55,
+      "title": "قميص تمرين",
+      "price": 172.5,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "قميص تمرين مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 3.5,
+      "reviews": 141,
+      "stock": 27,
+      "sold": 21
+    },
+    {
+      "id": 56,
+      "title": "سترة رياضية",
+      "price": 339.29,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1",
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e"
+      ],
+      "colors": [
+        "وردي",
+        "بيج",
+        "كحلي"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "سترة رياضية مصنوع من خامات عالية الجودة.",
+      "featured": true,
+      "new": false,
+      "sale": false,
+      "rating": 4.6,
+      "reviews": 104,
+      "stock": 16,
+      "sold": 26
+    },
+    {
+      "id": 57,
+      "title": "سترة رياضية",
+      "price": 220.76,
+      "originalPrice": null,
+      "cat_prefix": "sports",
+      "subCategory": "أحذية",
+      "images": [
+        "https://images.unsplash.com/photo-1600185365929-3a2f6f1e3e8e",
+        "https://images.unsplash.com/photo-1585386959984-a4155223f8e1"
+      ],
+      "colors": [
+        "أحمر",
+        "أزرق",
+        "أخضر"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "desc": "سترة رياضية مصنوع من خامات عالية الجودة.",
+      "featured": false,
+      "new": false,
+      "sale": false,
+      "rating": 4.0,
+      "reviews": 146,
+      "stock": 10,
+      "sold": 36
     }
   ]
 }
