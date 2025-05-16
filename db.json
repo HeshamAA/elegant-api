@@ -983,109 +983,99 @@
       "sold": 18
     }
   ],
-"blogPosts":[
-  {
-    id: 1,
-    title: "How to Style Winter Jackets",
-    excerpt: "Get ready for winter with these stylish jacket combinations that'll keep you warm and trendy.",
-    content:
-      "Winter is the perfect season to showcase your style with jackets that blend warmth and fashion. Start with a classic puffer jacket in neutral tones like black or beige, paired with a chunky knit scarf and slim-fit jeans for a cozy yet chic look. For a bolder statement, try a tailored wool coat in a vibrant color like emerald green, layered over a monochromatic outfit. Don’t shy away from textures—mix leather jackets with cashmere sweaters for a luxurious feel. Accessories like beanies and gloves can elevate your outfit while keeping you warm. Pro tip: Always choose jackets with quality insulation to stay comfortable in freezing temperatures. Whether you’re heading to work or a weekend getaway, these combinations will ensure you look effortlessly stylish all season long.",
-    image:
-      "https://images.unsplash.com/photo-1548624313-0396284age1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    date: "May 1, 2025",
-    category: "Fashion Tips",
-    tags: ["winter", "jackets", "layering"],
-    author: {
-      name: "Emma Johnson",
-      avatar: "https://i.pravatar.cc/150?img=1",
+
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "How to Style Winter Jackets",
+      "excerpt": "Get ready for winter with these stylish jacket combinations that'll keep you warm and trendy.",
+      "content": "Winter is the perfect season to showcase your style with jackets that blend warmth and fashion. Start with a classic puffer jacket in neutral tones like black or beige, paired with a chunky knit scarf and slim-fit jeans for a cozy yet chic look. For a bolder statement, try a tailored wool coat in a vibrant color like emerald green, layered over a monochromatic outfit. Don’t shy away from textures—mix leather jackets with cashmere sweaters for a luxurious feel. Accessories like beanies and gloves can elevate your outfit while keeping you warm. Pro tip: Always choose jackets with quality insulation to stay comfortable in freezing temperatures. Whether you’re heading to work or a weekend getaway, these combinations will ensure you look effortlessly stylish all season long.",
+      "image": "https://images.unsplash.com/photo-1548624313-0396284age1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "date": "May 1, 2025",
+      "category": "Fashion Tips",
+      "tags": ["winter", "jackets", "layering"],
+      "author": {
+        "name": "Emma Johnson",
+        "avatar": "https://i.pravatar.cc/150?img=1"
+      },
+      "readTime": 5
     },
-    readTime: 5,
-  },
-  {
-    id: 2,
-    title: "10 Must-Have Accessories for Summer",
-    excerpt: "Complete your summer wardrobe with these essential accessories that elevate any outfit.",
-    content:
-      "Summer calls for vibrant, lightweight accessories that add flair to your outfits. Start with a wide-brimmed hat to protect from the sun while adding a touch of elegance. Sunglasses with bold frames, like cat-eye or oversized styles, are a must for both style and UV protection. Layer delicate gold necklaces for a trendy, beachy vibe. A woven tote bag is perfect for carrying essentials to picnics or the beach. Don’t forget statement earrings—think hoops or colorful danglers—to frame your face. For footwear, strappy sandals in neutral tones pair well with any dress. A lightweight silk scarf can double as a headband or belt. Finally, a sleek watch or beaded bracelets add a polished finish. These accessories will keep you stylish and comfortable all summer long, whether you’re at a festival or a rooftop party.",
-    image:
-      "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    date: "April 28, 2025",
-    category: "Accessories",
-    tags: ["summer", "accessories", "style"],
-    author: {
-      name: "Alex Morgan",
-      avatar: "https://i.pravatar.cc/150?img=2",
+    {
+      "id": 2,
+      "title": "10 Must-Have Accessories for Summer",
+      "excerpt": "Complete your summer wardrobe with these essential accessories that elevate any outfit.",
+      "content": "Summer calls for vibrant, lightweight accessories that add flair to your outfits. Start with a wide-brimmed hat to protect from the sun while adding a touch of elegance. Sunglasses with bold frames, like cat-eye or oversized styles, are a must for both style and UV protection. Layer delicate gold necklaces for a trendy, beachy vibe. A woven tote bag is perfect for carrying essentials to picnics or the beach. Don’t forget statement earrings—think hoops or colorful danglers—to frame your face. For footwear, strappy sandals in neutral tones pair well with any dress. A lightweight silk scarf can double as a headband or belt. Finally, a sleek watch or beaded bracelets add a polished finish. These accessories will keep you stylish and comfortable all summer long, whether you’re at a festival or a rooftop party.",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "date": "April 28, 2025",
+      "category": "Accessories",
+      "tags": ["summer", "accessories", "style"],
+      "author": {
+        "name": "Alex Morgan",
+        "avatar": "https://i.pravatar.cc/150?img=2"
+      },
+      "readTime": 4
     },
-    readTime: 4,
-  },
-  {
-    id: 3,
-    title: "Sustainable Fashion: What You Need to Know",
-    excerpt: "Learn how to make environmentally conscious choices with your wardrobe without sacrificing style.",
-    content:
-      "Sustainable fashion is about making choices that benefit the planet and future generations. Start by investing in timeless pieces made from eco-friendly materials like organic cotton, hemp, or recycled polyester. Thrift shopping is another great way to reduce waste—vintage finds add unique flair to your wardrobe. Look for brands that prioritize ethical labor practices and transparent supply chains. Washing clothes in cold water and air-drying them can extend their lifespan and save energy. Consider capsule wardrobes to minimize overconsumption; a few versatile pieces can create countless outfits. Don’t forget to recycle or donate old clothes instead of throwing them away. By making small changes, like supporting sustainable brands or upcycling old garments, you can build a stylish wardrobe that aligns with your values and helps protect the environment.",
-    image:
-      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    date: "April 23, 2025",
-    category: "Sustainability",
-    tags: ["eco-friendly", "sustainable", "fashion"],
-    author: {
-      name: "Taylor Swift",
-      avatar: "https://i.pravatar.cc/150?img=3",
+    {
+      "id": 3,
+      "title": "Sustainable Fashion: What You Need to Know",
+      "excerpt": "Learn how to make environmentally conscious choices with your wardrobe without sacrificing style.",
+      "content": "Sustainable fashion is about making choices that benefit the planet and future generations. Start by investing in timeless pieces made from eco-friendly materials like organic cotton, hemp, or recycled polyester. Thrift shopping is another great way to reduce waste—vintage finds add unique flair to your wardrobe. Look for brands that prioritize ethical labor practices and transparent supply chains. Washing clothes in cold water and air-drying them can extend their lifespan and save energy. Consider capsule wardrobes to minimize overconsumption; a few versatile pieces can create countless outfits. Don’t forget to recycle or donate old clothes instead of throwing them away. By making small changes, like supporting sustainable brands or upcycling old garments, you can build a stylish wardrobe that aligns with your values and helps protect the environment.",
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "date": "April 23, 2025",
+      "category": "Sustainability",
+      "tags": ["eco-friendly", "sustainable", "fashion"],
+      "author": {
+        "name": "Taylor Swift",
+        "avatar": "https://i.pravatar.cc/150?img=3"
+      },
+      "readTime": 7
     },
-    readTime: 7,
-  },
-  {
-    id: 4,
-    title: "Spring Fashion Trends to Watch",
-    excerpt: "Discover the hottest trends this spring and how to incorporate them into your wardrobe.",
-    content:
-      "Spring 2025 is all about bold colors, playful patterns, and effortless elegance. Pastel shades like lavender and mint green are dominating dresses and blazers. Oversized floral prints add a romantic touch to maxi skirts and blouses—pair them with neutral accessories for balance. Wide-leg trousers in lightweight fabrics are a must-have, offering comfort and style. Sheer fabrics are making a comeback, perfect for layering with bralettes or camisoles. Chunky sneakers remain a staple, adding a sporty edge to feminine dresses. Don’t miss out on statement collars; they’re an easy way to elevate basic shirts. For accessories, try bucket hats or oversized sunglasses. To incorporate these trends, mix one trendy piece with your existing wardrobe staples for a fresh, wearable look that’s perfect for spring outings.",
-    image:
-      "https://images.unsplash.com/photo-1557418669-db3f781a58c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    date: "April 15, 2025",
-    category: "Trends",
-    tags: ["spring", "trends", "fashion"],
-    author: {
-      name: "Chris Rivera",
-      avatar: "https://i.pravatar.cc/150?img=4",
+    {
+      "id": 4,
+      "title": "Spring Fashion Trends to Watch",
+      "excerpt": "Discover the hottest trends this spring and how to incorporate them into your wardrobe.",
+      "content": "Spring 2025 is all about bold colors, playful patterns, and effortless elegance. Pastel shades like lavender and mint green are dominating dresses and blazers. Oversized floral prints add a romantic touch to maxi skirts and blouses—pair them with neutral accessories for balance. Wide-leg trousers in lightweight fabrics are a must-have, offering comfort and style. Sheer fabrics are making a comeback, perfect for layering with bralettes or camisoles. Chunky sneakers remain a staple, adding a sporty edge to feminine dresses. Don’t miss out on statement collars; they’re an easy way to elevate basic shirts. For accessories, try bucket hats or oversized sunglasses. To incorporate these trends, mix one trendy piece with your existing wardrobe staples for a fresh, wearable look that’s perfect for spring outings.",
+      "image": "https://images.unsplash.com/photo-1557418669-db3f781a58c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "date": "April 15, 2025",
+      "category": "Trends",
+      "tags": ["spring", "trends", "fashion"],
+      "author": {
+        "name": "Chris Rivera",
+        "avatar": "https://i.pravatar.cc/150?img=4"
+      },
+      "readTime": 6
     },
-    readTime: 6,
-  },
-  {
-    id: 5,
-    title: "How to Build a Capsule Wardrobe",
-    excerpt: "Simplify your life with a versatile capsule wardrobe that works for any occasion.",
-    content:
-      "A capsule wardrobe is a curated collection of versatile, high-quality pieces that mix and match effortlessly. Start with 10-15 essentials: a white button-up shirt, a tailored blazer, dark jeans, a little black dress, and neutral sweaters. Choose colors like black, white, navy, and beige for maximum versatility. Invest in timeless pieces made from durable fabrics like cotton or wool. Add one or two statement items, like a bold scarf or unique jacket, to keep things interesting. Footwear should include classic sneakers, loafers, and ankle boots. The key is to select items you love and feel confident in. Plan outfits for different occasions—work, casual outings, or events—to ensure everything works together. A capsule wardrobe saves time, reduces clutter, and helps you dress stylishly with minimal effort.",
-    image:
-      "https://images.unsplash.com/photo-1558769132-cb1aea458c5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    date: "April 10, 2025",
-    category: "Fashion Tips",
-    tags: ["capsule wardrobe", "minimalism", "essentials"],
-    author: {
-      name: "Jordan Lee",
-      avatar: "https://i.pravatar.cc/150?img=5",
+    {
+      "id": 5,
+      "title": "How to Build a Capsule Wardrobe",
+      "excerpt": "Simplify your life with a versatile capsule wardrobe that works for any occasion.",
+      "content": "A capsule wardrobe is a curated collection of versatile, high-quality pieces that mix and match effortlessly. Start with 10-15 essentials: a white button-up shirt, a tailored blazer, dark jeans, a little black dress, and neutral sweaters. Choose colors like black, white, navy, and beige for maximum versatility. Invest in timeless pieces made from durable fabrics like cotton or wool. Add one or two statement items, like a bold scarf or unique jacket, to keep things interesting. Footwear should include classic sneakers, loafers, and ankle boots. The key is to select items you love and feel confident in. Plan outfits for different occasions—work, casual outings, or events—to ensure everything works together. A capsule wardrobe saves time, reduces clutter, and helps you dress stylishly with minimal effort.",
+      "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "date": "April 10, 2025",
+      "category": "Fashion Tips",
+      "tags": ["capsule wardrobe", "minimalism", "essentials"],
+      "author": {
+        "name": "Jordan Lee",
+        "avatar": "https://i.pravatar.cc/150?img=5"
+      },
+      "readTime": 8
     },
-    readTime: 8,
-  },
-  {
-    id: 6,
-    title: "The Perfect Outfit for a Job Interview",
-    excerpt: "Make a great first impression with these professional outfit ideas for your next job interview.",
-    content:
-      "Dressing for a job interview is all about looking polished and confident. For a corporate setting, opt for a tailored blazer in navy or gray, paired with a crisp white shirt and slim-fit trousers. Women can choose a sheath dress in a neutral color with a structured blazer. Keep accessories minimal—a simple watch or stud earrings work best. For creative industries, add a pop of color with a tasteful scarf or patterned tie, but avoid anything too flashy. Comfortable, closed-toe shoes like loafers or low heels are ideal. Ensure your clothes are clean, ironed, and well-fitted. A structured bag completes the look. Practice good grooming—neat hair and minimal makeup or cologne. With these tips, you’ll walk into your interview feeling poised and ready to impress.",
-    image:
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    date: "April 5, 2025",
-    category: "Outfit Ideas",
-    tags: ["professional", "interview", "workwear"],
-    author: {
-      name: "Morgan Smith",
-      avatar: "https://i.pravatar.cc/150?img=6",
-    },
-    readTime: 5,
-  },
-],
+    {
+      "id": 6,
+      "title": "The Perfect Outfit for a Job Interview",
+      "excerpt": "Make a great first impression with these professional outfit ideas for your next job interview.",
+      "content": "Dressing for a job interview is all about looking polished and confident. For a corporate setting, opt for a tailored blazer in navy or gray, paired with a crisp white shirt and slim-fit trousers. Women can choose a sheath dress in a neutral color with a structured blazer. Keep accessories minimal—a simple watch or stud earrings work best. For creative industries, add a pop of color with a tasteful scarf or patterned tie, but avoid anything too flashy. Comfortable, closed-toe shoes like loafers or low heels are ideal. Ensure your clothes are clean, ironed, and well-fitted. A structured bag completes the look. Practice good grooming—neat hair and minimal makeup or cologne. With these tips, you’ll walk into your interview feeling poised and ready to impress.",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "date": "April 5, 2025",
+      "category": "Outfit Ideas",
+      "tags": ["professional", "interview", "workwear"],
+      "author": {
+        "name": "Morgan Smith",
+        "avatar": "https://i.pravatar.cc/150?img=6"
+      },
+      "readTime": 5
+    }
+  ]
+,
 }
 
