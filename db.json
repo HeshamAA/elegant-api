@@ -82,9 +82,7 @@
     }
   ],
 
-  
   "products": [
-  
     {
       "id": 1,
       "title": "Men's Classic T-Shirt",
@@ -92,7 +90,10 @@
       "originalPrice": 34.99,
       "cat_prefix": "men",
       "subCategory": "t-shirts",
-      "images": ["https://images.unsplash.com/photo-1618354691373-d851c5c3a990", "https://images.unsplash.com/photo-1622470953794-aa9c70b7769f"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1671656349262-1e1d3e09735c",
+        "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4"
+      ],
       "colors": ["White", "Black", "Navy"],
       "sizes": ["S", "M", "L", "XL"],
       "desc": "Comfortable cotton t-shirt, perfect for casual wear.",
@@ -111,7 +112,9 @@
       "originalPrice": 79.99,
       "cat_prefix": "men",
       "subCategory": "jeans",
-      "images": ["https://images.unsplash.com/photo-1608240545738-65c8e0e15654"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951220992-2bbe913ddbf8"
+      ],
       "colors": ["Blue", "Black"],
       "sizes": ["30", "32", "34", "36"],
       "desc": "Stylish slim fit jeans with stretch fabric.",
@@ -130,7 +133,9 @@
       "originalPrice": 44.99,
       "cat_prefix": "men",
       "subCategory": "polo-shirts",
-      "images": ["https://images.unsplash.com/photo-1620012253295-c15cc3e65df4"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951910901-3f595611cf3d"
+      ],
       "colors": ["Red", "Green", "White"],
       "sizes": ["M", "L", "XL"],
       "desc": "Breathable polo shirt for a smart-casual look.",
@@ -149,7 +154,9 @@
       "originalPrice": 59.99,
       "cat_prefix": "men",
       "subCategory": "hoodies",
-      "images": ["https://images.unsplash.com/photo-1617113930937-8f7c42954f6d"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951923523-0c76b14d4852"
+      ],
       "colors": ["Grey", "Black", "Blue"],
       "sizes": ["S", "M", "L", "XL"],
       "desc": "Cozy fleece Hoodie for chilly days.",
@@ -168,7 +175,9 @@
       "originalPrice": 49.99,
       "cat_prefix": "men",
       "subCategory": "shirts",
-      "images": ["https://images.unsplash.com/photo-1622470953794-aa9c70b7769f"],
+      "images": [
+        "https://images.unsplash.com/photo-1714070700737-24acfe6b957c"
+      ],
       "colors": ["White", "Blue"],
       "sizes": ["M", "L", "XL"],
       "desc": "Crisp formal shirt for business occasions.",
@@ -187,7 +196,9 @@
       "originalPrice": 159.99,
       "cat_prefix": "men",
       "subCategory": "jackets",
-      "images": ["https://images.unsplash.com/photo-1604641620224-80b03e8c5b48"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541424893-734612ddcabb"
+      ],
       "colors": ["Black", "Brown"],
       "sizes": ["M", "L", "XL"],
       "desc": "Premium leather jacket with a modern fit.",
@@ -206,7 +217,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "men",
       "subCategory": "shorts",
-      "images": ["https://images.unsplash.com/photo-1622470953794-aa9c70b7769f"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541425103-fcfd4bf88c27"
+      ],
       "colors": ["Khaki", "Navy"],
       "sizes": ["30", "32", "34"],
       "desc": "Lightweight shorts for summer outings.",
@@ -225,7 +238,9 @@
       "originalPrice": 89.99,
       "cat_prefix": "men",
       "subCategory": "jackets",
-      "images": ["https://images.unsplash.com/photo-1617113930937-8f7c42954f6d"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541425064-b07b68f436de"
+      ],
       "colors": ["Black", "Grey"],
       "sizes": ["S", "M", "L"],
       "desc": "Water-resistant jacket for outdoor activities.",
@@ -244,7 +259,9 @@
       "originalPrice": 54.99,
       "cat_prefix": "men",
       "subCategory": "sweaters",
-      "images": ["https://images.unsplash.com/photo-1618354691373-d851c5c3a990"],
+      "images": [
+        "https://images.unsplash.com/photo-1633966887768-64f9a867bdba"
+      ],
       "colors": ["Grey", "Blue", "Green"],
       "sizes": ["M", "L", "XL"],
       "desc": "Soft wool-blend sweater for layering.",
@@ -263,7 +280,9 @@
       "originalPrice": 69.99,
       "cat_prefix": "men",
       "subCategory": "pants",
-      "images": ["https://images.unsplash.com/photo-1608240545738-65c8e0e15654"],
+      "images": [
+        "https://images.unsplash.com/photo-1628068311627-0f5abce65050"
+      ],
       "colors": ["Beige", "Navy"],
       "sizes": ["30", "32", "34"],
       "desc": "Versatile chino pants for casual or semi-formal looks.",
@@ -282,7 +301,9 @@
       "originalPrice": 49.99,
       "cat_prefix": "men",
       "subCategory": "shirts",
-      "images": ["https://images.unsplash.com/photo-1620012253295-c15cc3e65df4"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951980904-fbe5c5aa2279"
+      ],
       "colors": ["Light Blue", "Dark Blue"],
       "sizes": ["M", "L", "XL"],
       "desc": "Rugged denim shirt for a casual vibe.",
@@ -301,7 +322,9 @@
       "originalPrice": 99.99,
       "cat_prefix": "men",
       "subCategory": "jackets",
-      "images": ["https://images.unsplash.com/photo-1604641620224-80b03e8c5b48"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951918731-77d7682b4e63"
+      ],
       "colors": ["Green", "Black"],
       "sizes": ["M", "L", "XL"],
       "desc": "Trendy bomber jacket with a sleek design.",
@@ -313,7 +336,7 @@
       "stock": 30,
       "sold": 10
     },
-   
+
     {
       "id": 13,
       "title": "Women's Floral Dress",
@@ -321,7 +344,10 @@
       "originalPrice": 79.99,
       "cat_prefix": "women",
       "subCategory": "dresses",
-      "images": ["https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6", "https://images.unsplash.com/photo-1618932260643-eee4a2f652a6"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1690338235263-68f2c173b5cc",
+        "https://images.unsplash.com/photo-1716951884230-84bed04544c5"
+      ],
       "colors": ["Pink", "White"],
       "sizes": ["XS", "S", "M", "L"],
       "desc": "Elegant floral dress for summer occasions.",
@@ -340,7 +366,9 @@
       "originalPrice": 69.99,
       "cat_prefix": "women",
       "subCategory": "jeans",
-      "images": ["https://images.unsplash.com/photo-1584865288642-42078afe6922"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1691367279675-0e466cfb5135"
+      ],
       "colors": ["Blue", "Black"],
       "sizes": ["26", "28", "30", "32"],
       "desc": "Flattering high-waist jeans with a modern fit.",
@@ -359,7 +387,9 @@
       "originalPrice": 44.99,
       "cat_prefix": "women",
       "subCategory": "blouses",
-      "images": ["https://images.unsplash.com/photo-1618378535536-47c4a73fd0c7"],
+      "images": [
+        "https://images.unsplash.com/photo-1651761179569-4ba2aa054997"
+      ],
       "colors": ["White", "Blue", "Pink"],
       "sizes": ["S", "M", "L"],
       "desc": "Lightweight blouse for a chic look.",
@@ -378,7 +408,9 @@
       "originalPrice": 49.99,
       "cat_prefix": "women",
       "subCategory": "cardigans",
-      "images": ["https://images.unsplash.com/photo-1606787366850-de6330128bfc"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1690347839113-b5db143123b1"
+      ],
       "colors": ["Grey", "Beige"],
       "sizes": ["S", "M", "L"],
       "desc": "Soft cardigan for cozy layering.",
@@ -397,7 +429,9 @@
       "originalPrice": 59.99,
       "cat_prefix": "women",
       "subCategory": "skirts",
-      "images": ["https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541424935-e28adbd63ca3"
+      ],
       "colors": ["Black", "Red"],
       "sizes": ["XS", "S", "M"],
       "desc": "Versatile midi skirt for casual or formal outfits.",
@@ -416,7 +450,9 @@
       "originalPrice": 129.99,
       "cat_prefix": "women",
       "subCategory": "coats",
-      "images": ["https://images.unsplash.com/photo-1615873968403-89e068629265"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1661576995682-d7a7182e1320"
+      ],
       "colors": ["Beige", "Navy"],
       "sizes": ["S", "M", "L"],
       "desc": "Classic trench coat for timeless style.",
@@ -435,7 +471,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "women",
       "subCategory": "activewear",
-      "images": ["https://images.unsplash.com/photo-1598528739971-56ad0ce205db"],
+      "images": [
+        "https://images.unsplash.com/photo-1511021269373-5550779a0eb0"
+      ],
       "colors": ["Black", "Grey"],
       "sizes": ["XS", "S", "M", "L"],
       "desc": "Stretchy leggings for workouts or casual wear.",
@@ -454,7 +492,9 @@
       "originalPrice": 64.99,
       "cat_prefix": "women",
       "subCategory": "sweaters",
-      "images": ["https://images.unsplash.com/photo-1606787366850-de6330128bfc"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1688497830987-e4f7ce4da50b"
+      ],
       "colors": ["Cream", "Green"],
       "sizes": ["S", "M", "L"],
       "desc": "Warm knit sweater for chilly days.",
@@ -473,7 +513,7 @@
       "originalPrice": 89.99,
       "cat_prefix": "women",
       "subCategory": "jumpsuits",
-      "images": ["https://images.unsplash.com/photo-1618932260643-eee4a2f652a6"],
+      "images": ["https://images.unsplash.com/photo-1560596354-6f34aaea2bb8"],
       "colors": ["Black", "Navy"],
       "sizes": ["XS", "S", "M"],
       "desc": "Sleek jumpsuit for a bold look.",
@@ -492,7 +532,9 @@
       "originalPrice": 79.99,
       "cat_prefix": "women",
       "subCategory": "jackets",
-      "images": ["https://images.unsplash.com/photo-1584865288642-42078afe6922"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1693161217898-2d1787e0dc4c"
+      ],
       "colors": ["Blue", "Black"],
       "sizes": ["S", "M", "L"],
       "desc": "Casual denim jacket for everyday wear.",
@@ -511,7 +553,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "women",
       "subCategory": "tops",
-      "images": ["https://images.unsplash.com/photo-1618378535536-47c4a73fd0c7"],
+      "images": [
+        "https://images.unsplash.com/photo-1626419964894-5448f0ac05cf"
+      ],
       "colors": ["White", "Blue"],
       "sizes": ["S", "M", "L"],
       "desc": "Flowy tunic top for a relaxed style.",
@@ -530,7 +574,9 @@
       "originalPrice": 99.99,
       "cat_prefix": "women",
       "subCategory": "dresses",
-      "images": ["https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6"],
+      "images": [
+        "https://images.unsplash.com/photo-1660997351262-6c31d8a35b6c"
+      ],
       "colors": ["Green", "Black"],
       "sizes": ["XS", "S", "M", "L"],
       "desc": "Elegant maxi dress for special occasions.",
@@ -549,7 +595,9 @@
       "originalPrice": 34.99,
       "cat_prefix": "women",
       "subCategory": "tops",
-      
+      "images": [
+        "https://images.unsplash.com/photo-1650200414149-b4c77ebdca2c"
+      ],
       "colors": ["White", "Pink"],
       "sizes": ["XS", "S", "M"],
       "desc": "Trendy crop top for a youthful look.",
@@ -559,8 +607,7 @@
       "rating": 4.2,
       "reviews": 60,
       "stock": 40,
-      "sold": 15,
-      "images": ["https://images.unsplash.com/photo-1618378535536-47c4a73fd0c7"]
+      "sold": 15
     },
     {
       "id": 26,
@@ -569,7 +616,9 @@
       "originalPrice": 89.99,
       "cat_prefix": "women",
       "subCategory": "skirts",
-      "images": ["https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6"],
+      "images": [
+        "https://images.unsplash.com/photo-1654432007491-8c97c473a7b4"
+      ],
       "colors": ["Black", "Brown"],
       "sizes": ["XS", "S", "M"],
       "desc": "Chic leather skirt for a bold statement.",
@@ -581,7 +630,7 @@
       "stock": 30,
       "sold": 12
     },
-    
+
     {
       "id": 27,
       "title": "Kids' Graphic T-Shirt",
@@ -589,7 +638,9 @@
       "originalPrice": 29.99,
       "cat_prefix": "kids",
       "subCategory": "t-shirts",
-      "images": ["https://images.unsplash.com/photo-1620012253295-c15cc3e65df4"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1671656349262-1e1d3e09735c"
+      ],
       "colors": ["Blue", "Red", "Yellow"],
       "sizes": ["2T", "3T", "4T", "5T"],
       "desc": "Fun graphic t-shirt for kids.",
@@ -608,7 +659,9 @@
       "originalPrice": 44.99,
       "cat_prefix": "kids",
       "subCategory": "overalls",
-      "images": ["https://images.unsplash.com/photo-1608240545738-65c8e0e15654"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4"
+      ],
       "colors": ["Blue"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Durable denim overalls for active kids.",
@@ -627,7 +680,9 @@
       "originalPrice": 49.99,
       "cat_prefix": "kids",
       "subCategory": "jackets",
-      "images": ["https://images.unsplash.com/photo-1617113930937-8f7c42954f6d"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951220992-2bbe913ddbf8"
+      ],
       "colors": ["Green", "Navy"],
       "sizes": ["4T", "5T", "6"],
       "desc": "Warm hooded jacket for cool weather.",
@@ -646,7 +701,9 @@
       "originalPrice": 19.99,
       "cat_prefix": "kids",
       "subCategory": "leggings",
-      "images": ["https://images.unsplash.com/photo-1598528739971-56ad0ce205db"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951910901-3f595611cf3d"
+      ],
       "colors": ["Pink", "Black"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Stretchy leggings for comfortable play.",
@@ -665,7 +722,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "kids",
       "subCategory": "dresses",
-      "images": ["https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951923523-0c76b14d4852"
+      ],
       "colors": ["Pink", "White"],
       "sizes": ["3T", "4T", "5T"],
       "desc": "Cute party dress for special occasions.",
@@ -684,7 +743,9 @@
       "originalPrice": 34.99,
       "cat_prefix": "kids",
       "subCategory": "pajamas",
-      "images": ["https://images.unsplash.com/photo-1620012253295-c15cc3e65df4"],
+      "images": [
+        "https://images.unsplash.com/photo-1714070700737-24acfe6b957c"
+      ],
       "colors": ["Blue", "Grey"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Soft pajama set for a good night's sleep.",
@@ -703,7 +764,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "kids",
       "subCategory": "sweatshirts",
-      "images": ["https://images.unsplash.com/photo-1617113930937-8f7c42954f6d"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541424893-734612ddcabb"
+      ],
       "colors": ["Red", "Blue"],
       "sizes": ["4T", "5T", "6"],
       "desc": "Cozy sweatshirt for everyday wear.",
@@ -722,7 +785,9 @@
       "originalPrice": 34.99,
       "cat_prefix": "kids",
       "subCategory": "pants",
-      "images": ["https://images.unsplash.com/photo-1608240545738-65c8e0e15654"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541425103-fcfd4bf88c27"
+      ],
       "colors": ["Khaki", "Green"],
       "sizes": ["3T", "4T", "5T"],
       "desc": "Durable cargo pants for outdoor play.",
@@ -741,7 +806,9 @@
       "originalPrice": 49.99,
       "cat_prefix": "kids",
       "subCategory": "jackets",
-      "images": ["https://images.unsplash.com/photo-1617113930937-8f7c42954f6d"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541425064-b07b68f436de"
+      ],
       "colors": ["Yellow", "Blue"],
       "sizes": ["4T", "5T", "6"],
       "desc": "Waterproof raincoat for rainy days.",
@@ -760,7 +827,9 @@
       "originalPrice": 29.99,
       "cat_prefix": "kids",
       "subCategory": "skirts",
-      "images": ["https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6"],
+      "images": [
+        "https://images.unsplash.com/photo-1633966887768-64f9a867bdba"
+      ],
       "colors": ["Pink", "Blue"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Cute skirt for playful outfits.",
@@ -772,7 +841,7 @@
       "stock": 40,
       "sold": 15
     },
-    
+
     {
       "id": 37,
       "title": "Unisex Baseball Cap",
@@ -780,7 +849,9 @@
       "originalPrice": 24.99,
       "cat_prefix": "accessories",
       "subCategory": "hats",
-      "images": ["https://images.unsplash.com/photo-1620217361478-5bdedac4b5e6"],
+      "images": [
+        "https://images.unsplash.com/photo-1628068311627-0f5abce65050"
+      ],
       "colors": ["Black", "Navy"],
       "sizes": ["One Size"],
       "desc": "Classic baseball cap for a sporty look.",
@@ -799,7 +870,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "accessories",
       "subCategory": "belts",
-      "images": ["https://images.unsplash.com/photo-1606761568499-6d2451b23c66"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951980904-fbe5c5aa2279"
+      ],
       "colors": ["Black", "Brown"],
       "sizes": ["S", "M", "L"],
       "desc": "Premium leather belt for a polished look.",
@@ -818,7 +891,9 @@
       "originalPrice": 69.99,
       "cat_prefix": "accessories",
       "subCategory": "sunglasses",
-      "images": ["https://images.unsplash.com/photo-1511499767150-a48a237f0083"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951918731-77d7682b4e63"
+      ],
       "colors": ["Black", "Brown"],
       "sizes": ["One Size"],
       "desc": "Stylish sunglasses with UV protection.",
@@ -837,7 +912,9 @@
       "originalPrice": 44.99,
       "cat_prefix": "accessories",
       "subCategory": "scarves",
-      "images": ["https://images.unsplash.com/photo-1606761568499-6d2451b23c66"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1690338235263-68f2c173b5cc"
+      ],
       "colors": ["Red", "Blue"],
       "sizes": ["One Size"],
       "desc": "Elegant silk scarf for versatile styling.",
@@ -856,7 +933,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "accessories",
       "subCategory": "bags",
-      "images": ["https://images.unsplash.com/photo-1587466289567-2a6c66e06c90"],
+      "images": [
+        "https://images.unsplash.com/photo-1716951884230-84bed04544c5"
+      ],
       "colors": ["Beige", "Black"],
       "sizes": ["One Size"],
       "desc": "Durable canvas tote for everyday use.",
@@ -875,7 +954,9 @@
       "originalPrice": 34.99,
       "cat_prefix": "accessories",
       "subCategory": "hats",
-      "images": ["https://images.unsplash.com/photo-1620217361478-5bdedac4b5e6"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1691367279675-0e466cfb5135"
+      ],
       "colors": ["Grey", "Black"],
       "sizes": ["One Size"],
       "desc": "Warm wool beanie for cold weather.",
@@ -894,7 +975,9 @@
       "originalPrice": 49.99,
       "cat_prefix": "accessories",
       "subCategory": "wallets",
-      "images": ["https://images.unsplash.com/photo-1606761568499-6d2451b23c66"],
+      "images": [
+        "https://images.unsplash.com/photo-1651761179569-4ba2aa054997"
+      ],
       "colors": ["Black", "Brown"],
       "sizes": ["One Size"],
       "desc": "Sleek leather wallet with multiple compartments.",
@@ -913,7 +996,9 @@
       "originalPrice": 39.99,
       "cat_prefix": "accessories",
       "subCategory": "jewelry",
-      "images": ["https://images.unsplash.com/photo-1602171431764-7a8e93a6d8d8"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1690347839113-b5db143123b1"
+      ],
       "colors": ["Gold", "Silver"],
       "sizes": ["One Size"],
       "desc": "Bold necklace for a standout look.",
@@ -932,7 +1017,9 @@
       "originalPrice": 99.99,
       "cat_prefix": "accessories",
       "subCategory": "watches",
-      "images": ["https://images.unsplash.com/photo-1524592094714-0f1833607854"],
+      "images": [
+        "https://images.unsplash.com/photo-1716541424935-e28adbd63ca3"
+      ],
       "colors": ["Silver", "Black"],
       "sizes": ["One Size"],
       "desc": "Elegant watch with a minimalist design.",
@@ -951,7 +1038,9 @@
       "originalPrice": 69.99,
       "cat_prefix": "accessories",
       "subCategory": "bags",
-      "images": ["https://images.unsplash.com/photo-1587466289567-2a6c66e06c90"],
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1661576995682-d7a7182e1320"
+      ],
       "colors": ["Black", "Brown"],
       "sizes": ["One Size"],
       "desc": "Compact crossbody bag for daily essentials.",
@@ -970,7 +1059,9 @@
       "originalPrice": 34.99,
       "cat_prefix": "accessories",
       "subCategory": "jewelry",
-      "images": ["https://images.unsplash.com/photo-1602171431764-7a8e93a6d8d8"],
+      "images": [
+        "https://images.unsplash.com/photo-1511021269373-5550779a0eb0"
+      ],
       "colors": ["Gold", "Silver"],
       "sizes": ["One Size"],
       "desc": "Delicate earrings for everyday wear.",
@@ -989,7 +1080,7 @@
       "id": 1,
       "title": "How to Style Winter Jackets",
       "excerpt": "Get ready for winter with these stylish jacket combinations that'll keep you warm and trendy.",
-      "content": "Winter is the perfect season to showcase your style with jackets that blend warmth and fashion. Start with a classic puffer jacket in neutral tones like black or beige, paired with a chunky knit scarf and slim-fit jeans for a cozy yet chic look. For a bolder statement, try a tailored wool coat in a vibrant color like emerald green, layered over a monochromatic outfit. Don’t shy away from textures—mix leather jackets with cashmere sweaters for a luxurious feel. Accessories like beanies and gloves can elevate your outfit while keeping you warm. Pro tip: Always choose jackets with quality insulation to stay comfortable in freezing temperatures. Whether you’re heading to work or a weekend getaway, these combinations will ensure you look effortlessly stylish all season long.",
+      "content": "Winter is the perfect season to showcase your style with jackets that blend warmth and fashion. Start with a classic puffer jacket in neutral tones like black or beige, paired with a chunky knit scarf and slim-fit jeans for a cozy yet chic look. For a bolder statement, try a tailored wool coat in a vibrant color like emerald green, layered over a monochromatic outfit. Don't shy away from textures—mix leather jackets with cashmere sweaters for a luxurious feel. Accessories like beanies and gloves can elevate your outfit while keeping you warm. Pro tip: Always choose jackets with quality insulation to stay comfortable in freezing temperatures. Whether you're heading to work or a weekend getaway, these combinations will ensure you look effortlessly stylish all season long.",
       "image": "https://images.unsplash.com/photo-1548624313-0396284age1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "date": "May 1, 2025",
       "category": "Fashion Tips",
@@ -1004,7 +1095,7 @@
       "id": 2,
       "title": "10 Must-Have Accessories for Summer",
       "excerpt": "Complete your summer wardrobe with these essential accessories that elevate any outfit.",
-      "content": "Summer calls for vibrant, lightweight accessories that add flair to your outfits. Start with a wide-brimmed hat to protect from the sun while adding a touch of elegance. Sunglasses with bold frames, like cat-eye or oversized styles, are a must for both style and UV protection. Layer delicate gold necklaces for a trendy, beachy vibe. A woven tote bag is perfect for carrying essentials to picnics or the beach. Don’t forget statement earrings—think hoops or colorful danglers—to frame your face. For footwear, strappy sandals in neutral tones pair well with any dress. A lightweight silk scarf can double as a headband or belt. Finally, a sleek watch or beaded bracelets add a polished finish. These accessories will keep you stylish and comfortable all summer long, whether you’re at a festival or a rooftop party.",
+      "content": "Summer calls for vibrant, lightweight accessories that add flair to your outfits. Start with a wide-brimmed hat to protect from the sun while adding a touch of elegance. Sunglasses with bold frames, like cat-eye or oversized styles, are a must for both style and UV protection. Layer delicate gold necklaces for a trendy, beachy vibe. A woven tote bag is perfect for carrying essentials to picnics or the beach. Don't forget statement earrings—think hoops or colorful danglers—to frame your face. For footwear, strappy sandals in neutral tones pair well with any dress. A lightweight silk scarf can double as a headband or belt. Finally, a sleek watch or beaded bracelets add a polished finish. These accessories will keep you stylish and comfortable all summer long, whether you're at a festival or a rooftop party.",
       "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "date": "April 28, 2025",
       "category": "Accessories",
@@ -1019,7 +1110,7 @@
       "id": 3,
       "title": "Sustainable Fashion: What You Need to Know",
       "excerpt": "Learn how to make environmentally conscious choices with your wardrobe without sacrificing style.",
-      "content": "Sustainable fashion is about making choices that benefit the planet and future generations. Start by investing in timeless pieces made from eco-friendly materials like organic cotton, hemp, or recycled polyester. Thrift shopping is another great way to reduce waste—vintage finds add unique flair to your wardrobe. Look for brands that prioritize ethical labor practices and transparent supply chains. Washing clothes in cold water and air-drying them can extend their lifespan and save energy. Consider capsule wardrobes to minimize overconsumption; a few versatile pieces can create countless outfits. Don’t forget to recycle or donate old clothes instead of throwing them away. By making small changes, like supporting sustainable brands or upcycling old garments, you can build a stylish wardrobe that aligns with your values and helps protect the environment.",
+      "content": "Sustainable fashion is about making choices that benefit the planet and future generations. Start by investing in timeless pieces made from eco-friendly materials like organic cotton, hemp, or recycled polyester. Thrift shopping is another great way to reduce waste—vintage finds add unique flair to your wardrobe. Look for brands that prioritize ethical labor practices and transparent supply chains. Washing clothes in cold water and air-drying them can extend their lifespan and save energy. Consider capsule wardrobes to minimize overconsumption; a few versatile pieces can create countless outfits. Don't forget to recycle or donate old clothes instead of throwing them away. By making small changes, like supporting sustainable brands or upcycling old garments, you can build a stylish wardrobe that aligns with your values and helps protect the environment.",
       "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "date": "April 23, 2025",
       "category": "Sustainability",
@@ -1034,7 +1125,7 @@
       "id": 4,
       "title": "Spring Fashion Trends to Watch",
       "excerpt": "Discover the hottest trends this spring and how to incorporate them into your wardrobe.",
-      "content": "Spring 2025 is all about bold colors, playful patterns, and effortless elegance. Pastel shades like lavender and mint green are dominating dresses and blazers. Oversized floral prints add a romantic touch to maxi skirts and blouses—pair them with neutral accessories for balance. Wide-leg trousers in lightweight fabrics are a must-have, offering comfort and style. Sheer fabrics are making a comeback, perfect for layering with bralettes or camisoles. Chunky sneakers remain a staple, adding a sporty edge to feminine dresses. Don’t miss out on statement collars; they’re an easy way to elevate basic shirts. For accessories, try bucket hats or oversized sunglasses. To incorporate these trends, mix one trendy piece with your existing wardrobe staples for a fresh, wearable look that’s perfect for spring outings.",
+      "content": "Spring 2025 is all about bold colors, playful patterns, and effortless elegance. Pastel shades like lavender and mint green are dominating dresses and blazers. Oversized floral prints add a romantic touch to maxi skirts and blouses—pair them with neutral accessories for balance. Wide-leg trousers in lightweight fabrics are a must-have, offering comfort and style. Sheer fabrics are making a comeback, perfect for layering with bralettes or camisoles. Chunky sneakers remain a staple, adding a sporty edge to feminine dresses. Don't miss out on statement collars; they're an easy way to elevate basic shirts. For accessories, try bucket hats or oversized sunglasses. To incorporate these trends, mix one trendy piece with your existing wardrobe staples for a fresh, wearable look that's perfect for spring outings.",
       "image": "https://images.unsplash.com/photo-1557418669-db3f781a58c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "date": "April 15, 2025",
       "category": "Trends",
@@ -1064,7 +1155,7 @@
       "id": 6,
       "title": "The Perfect Outfit for a Job Interview",
       "excerpt": "Make a great first impression with these professional outfit ideas for your next job interview.",
-      "content": "Dressing for a job interview is all about looking polished and confident. For a corporate setting, opt for a tailored blazer in navy or gray, paired with a crisp white shirt and slim-fit trousers. Women can choose a sheath dress in a neutral color with a structured blazer. Keep accessories minimal—a simple watch or stud earrings work best. For creative industries, add a pop of color with a tasteful scarf or patterned tie, but avoid anything too flashy. Comfortable, closed-toe shoes like loafers or low heels are ideal. Ensure your clothes are clean, ironed, and well-fitted. A structured bag completes the look. Practice good grooming—neat hair and minimal makeup or cologne. With these tips, you’ll walk into your interview feeling poised and ready to impress.",
+      "content": "Dressing for a job interview is all about looking polished and confident. For a corporate setting, opt for a tailored blazer in navy or gray, paired with a crisp white shirt and slim-fit trousers. Women can choose a sheath dress in a neutral color with a structured blazer. Keep accessories minimal—a simple watch or stud earrings work best. For creative industries, add a pop of color with a tasteful scarf or patterned tie, but avoid anything too flashy. Comfortable, closed-toe shoes like loafers or low heels are ideal. Ensure your clothes are clean, ironed, and well-fitted. A structured bag completes the look. Practice good grooming—neat hair and minimal makeup or cologne. With these tips, you'll walk into your interview feeling poised and ready to impress.",
       "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "date": "April 5, 2025",
       "category": "Outfit Ideas",
@@ -1076,6 +1167,4 @@
       "readTime": 5
     }
   ]
-
 }
-
