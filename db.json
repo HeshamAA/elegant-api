@@ -90,10 +90,7 @@
       "originalPrice": 34.99,
       "cat_prefix": "men",
       "subCategory": "t-shirts",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1671656349262-1e1d3e09735c",
-        "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4"
-      ],
+      "images": ["/products/image-0.jpg", "/products/image-1.jpg"],
       "colors": ["White", "Black", "Navy"],
       "sizes": ["S", "M", "L", "XL"],
       "desc": "Comfortable cotton t-shirt, perfect for casual wear.",
@@ -112,9 +109,7 @@
       "originalPrice": 79.99,
       "cat_prefix": "men",
       "subCategory": "jeans",
-      "images": [
-        "https://images.unsplash.com/photo-1716951220992-2bbe913ddbf8"
-      ],
+      "images": ["/products/image-2.jpg"],
       "colors": ["Blue", "Black"],
       "sizes": ["30", "32", "34", "36"],
       "desc": "Stylish slim fit jeans with stretch fabric.",
@@ -133,9 +128,7 @@
       "originalPrice": 44.99,
       "cat_prefix": "men",
       "subCategory": "polo-shirts",
-      "images": [
-        "https://images.unsplash.com/photo-1716951910901-3f595611cf3d"
-      ],
+      "images": ["/products/image-3.jpg"],
       "colors": ["Red", "Green", "White"],
       "sizes": ["M", "L", "XL"],
       "desc": "Breathable polo shirt for a smart-casual look.",
@@ -154,9 +147,7 @@
       "originalPrice": 59.99,
       "cat_prefix": "men",
       "subCategory": "hoodies",
-      "images": [
-        "https://images.unsplash.com/photo-1716951923523-0c76b14d4852"
-      ],
+      "images": ["/products/image-4.jpg"],
       "colors": ["Grey", "Black", "Blue"],
       "sizes": ["S", "M", "L", "XL"],
       "desc": "Cozy fleece Hoodie for chilly days.",
@@ -175,9 +166,7 @@
       "originalPrice": 49.99,
       "cat_prefix": "men",
       "subCategory": "shirts",
-      "images": [
-        "https://images.unsplash.com/photo-1714070700737-24acfe6b957c"
-      ],
+      "images": ["/products/image-5.jpg"],
       "colors": ["White", "Blue"],
       "sizes": ["M", "L", "XL"],
       "desc": "Crisp formal shirt for business occasions.",
@@ -196,9 +185,7 @@
       "originalPrice": 159.99,
       "cat_prefix": "men",
       "subCategory": "jackets",
-      "images": [
-        "https://images.unsplash.com/photo-1716541424893-734612ddcabb"
-      ],
+      "images": ["/products/image-6.jpg"],
       "colors": ["Black", "Brown"],
       "sizes": ["M", "L", "XL"],
       "desc": "Premium leather jacket with a modern fit.",
@@ -217,9 +204,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "men",
       "subCategory": "shorts",
-      "images": [
-        "https://images.unsplash.com/photo-1716541425103-fcfd4bf88c27"
-      ],
+      "images": ["/products/image-7.jpg"],
       "colors": ["Khaki", "Navy"],
       "sizes": ["30", "32", "34"],
       "desc": "Lightweight shorts for summer outings.",
@@ -238,9 +223,7 @@
       "originalPrice": 89.99,
       "cat_prefix": "men",
       "subCategory": "jackets",
-      "images": [
-        "https://images.unsplash.com/photo-1716541425064-b07b68f436de"
-      ],
+      "images": ["/products/image-8.jpg"],
       "colors": ["Black", "Grey"],
       "sizes": ["S", "M", "L"],
       "desc": "Water-resistant jacket for outdoor activities.",
@@ -259,9 +242,7 @@
       "originalPrice": 54.99,
       "cat_prefix": "men",
       "subCategory": "sweaters",
-      "images": [
-        "https://images.unsplash.com/photo-1633966887768-64f9a867bdba"
-      ],
+      "images": ["/products/image-9.jpg"],
       "colors": ["Grey", "Blue", "Green"],
       "sizes": ["M", "L", "XL"],
       "desc": "Soft wool-blend sweater for layering.",
@@ -280,9 +261,7 @@
       "originalPrice": 69.99,
       "cat_prefix": "men",
       "subCategory": "pants",
-      "images": [
-        "https://images.unsplash.com/photo-1628068311627-0f5abce65050"
-      ],
+      "images": ["/products/image-10.jpg"],
       "colors": ["Beige", "Navy"],
       "sizes": ["30", "32", "34"],
       "desc": "Versatile chino pants for casual or semi-formal looks.",
@@ -301,9 +280,7 @@
       "originalPrice": 49.99,
       "cat_prefix": "men",
       "subCategory": "shirts",
-      "images": [
-        "https://images.unsplash.com/photo-1716951980904-fbe5c5aa2279"
-      ],
+      "images": ["/products/image-11.jpg"],
       "colors": ["Light Blue", "Dark Blue"],
       "sizes": ["M", "L", "XL"],
       "desc": "Rugged denim shirt for a casual vibe.",
@@ -322,9 +299,7 @@
       "originalPrice": 99.99,
       "cat_prefix": "men",
       "subCategory": "jackets",
-      "images": [
-        "https://images.unsplash.com/photo-1716951918731-77d7682b4e63"
-      ],
+      "images": ["/products/image-12.jpg"],
       "colors": ["Green", "Black"],
       "sizes": ["M", "L", "XL"],
       "desc": "Trendy bomber jacket with a sleek design.",
@@ -344,10 +319,7 @@
       "originalPrice": 79.99,
       "cat_prefix": "women",
       "subCategory": "dresses",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1690338235263-68f2c173b5cc",
-        "https://images.unsplash.com/photo-1716951884230-84bed04544c5"
-      ],
+      "images": ["/products/image-13.jpg", "/products/image-14.jpg"],
       "colors": ["Pink", "White"],
       "sizes": ["XS", "S", "M", "L"],
       "desc": "Elegant floral dress for summer occasions.",
@@ -366,9 +338,7 @@
       "originalPrice": 69.99,
       "cat_prefix": "women",
       "subCategory": "jeans",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1691367279675-0e466cfb5135"
-      ],
+      "images": ["/products/image-15.jpg"],
       "colors": ["Blue", "Black"],
       "sizes": ["26", "28", "30", "32"],
       "desc": "Flattering high-waist jeans with a modern fit.",
@@ -387,9 +357,7 @@
       "originalPrice": 44.99,
       "cat_prefix": "women",
       "subCategory": "blouses",
-      "images": [
-        "https://images.unsplash.com/photo-1651761179569-4ba2aa054997"
-      ],
+      "images": ["/products/image-16.jpg"],
       "colors": ["White", "Blue", "Pink"],
       "sizes": ["S", "M", "L"],
       "desc": "Lightweight blouse for a chic look.",
@@ -408,9 +376,7 @@
       "originalPrice": 49.99,
       "cat_prefix": "women",
       "subCategory": "cardigans",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1690347839113-b5db143123b1"
-      ],
+      "images": ["/products/image-17.jpg"],
       "colors": ["Grey", "Beige"],
       "sizes": ["S", "M", "L"],
       "desc": "Soft cardigan for cozy layering.",
@@ -429,9 +395,7 @@
       "originalPrice": 59.99,
       "cat_prefix": "women",
       "subCategory": "skirts",
-      "images": [
-        "https://images.unsplash.com/photo-1716541424935-e28adbd63ca3"
-      ],
+      "images": ["/products/image-18.jpg"],
       "colors": ["Black", "Red"],
       "sizes": ["XS", "S", "M"],
       "desc": "Versatile midi skirt for casual or formal outfits.",
@@ -450,9 +414,7 @@
       "originalPrice": 129.99,
       "cat_prefix": "women",
       "subCategory": "coats",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1661576995682-d7a7182e1320"
-      ],
+      "images": ["/products/image-19.jpg"],
       "colors": ["Beige", "Navy"],
       "sizes": ["S", "M", "L"],
       "desc": "Classic trench coat for timeless style.",
@@ -471,9 +433,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "women",
       "subCategory": "activewear",
-      "images": [
-        "https://images.unsplash.com/photo-1511021269373-5550779a0eb0"
-      ],
+      "images": ["/products/image-20.jpg"],
       "colors": ["Black", "Grey"],
       "sizes": ["XS", "S", "M", "L"],
       "desc": "Stretchy leggings for workouts or casual wear.",
@@ -492,9 +452,7 @@
       "originalPrice": 64.99,
       "cat_prefix": "women",
       "subCategory": "sweaters",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1688497830987-e4f7ce4da50b"
-      ],
+      "images": ["/products/image-21.jpg"],
       "colors": ["Cream", "Green"],
       "sizes": ["S", "M", "L"],
       "desc": "Warm knit sweater for chilly days.",
@@ -513,7 +471,7 @@
       "originalPrice": 89.99,
       "cat_prefix": "women",
       "subCategory": "jumpsuits",
-      "images": ["https://images.unsplash.com/photo-1560596354-6f34aaea2bb8"],
+      "images": ["/products/image-22.jpg"],
       "colors": ["Black", "Navy"],
       "sizes": ["XS", "S", "M"],
       "desc": "Sleek jumpsuit for a bold look.",
@@ -532,9 +490,7 @@
       "originalPrice": 79.99,
       "cat_prefix": "women",
       "subCategory": "jackets",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1693161217898-2d1787e0dc4c"
-      ],
+      "images": ["/products/image-23.jpg"],
       "colors": ["Blue", "Black"],
       "sizes": ["S", "M", "L"],
       "desc": "Casual denim jacket for everyday wear.",
@@ -553,9 +509,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "women",
       "subCategory": "tops",
-      "images": [
-        "https://images.unsplash.com/photo-1626419964894-5448f0ac05cf"
-      ],
+      "images": ["/products/image-24.jpg"],
       "colors": ["White", "Blue"],
       "sizes": ["S", "M", "L"],
       "desc": "Flowy tunic top for a relaxed style.",
@@ -574,9 +528,7 @@
       "originalPrice": 99.99,
       "cat_prefix": "women",
       "subCategory": "dresses",
-      "images": [
-        "https://images.unsplash.com/photo-1660997351262-6c31d8a35b6c"
-      ],
+      "images": ["/products/image-25.jpg"],
       "colors": ["Green", "Black"],
       "sizes": ["XS", "S", "M", "L"],
       "desc": "Elegant maxi dress for special occasions.",
@@ -595,9 +547,7 @@
       "originalPrice": 34.99,
       "cat_prefix": "women",
       "subCategory": "tops",
-      "images": [
-        "https://images.unsplash.com/photo-1650200414149-b4c77ebdca2c"
-      ],
+      "images": ["/products/image-26.jpg"],
       "colors": ["White", "Pink"],
       "sizes": ["XS", "S", "M"],
       "desc": "Trendy crop top for a youthful look.",
@@ -616,9 +566,7 @@
       "originalPrice": 89.99,
       "cat_prefix": "women",
       "subCategory": "skirts",
-      "images": [
-        "https://images.unsplash.com/photo-1654432007491-8c97c473a7b4"
-      ],
+      "images": ["/products/image-27.jpg"],
       "colors": ["Black", "Brown"],
       "sizes": ["XS", "S", "M"],
       "desc": "Chic leather skirt for a bold statement.",
@@ -638,9 +586,7 @@
       "originalPrice": 29.99,
       "cat_prefix": "kids",
       "subCategory": "t-shirts",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1671656349262-1e1d3e09735c"
-      ],
+      "images": ["/products/image-28.jpg"],
       "colors": ["Blue", "Red", "Yellow"],
       "sizes": ["2T", "3T", "4T", "5T"],
       "desc": "Fun graphic t-shirt for kids.",
@@ -659,9 +605,7 @@
       "originalPrice": 44.99,
       "cat_prefix": "kids",
       "subCategory": "overalls",
-      "images": [
-        "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4"
-      ],
+      "images": ["/products/image-29.jpg"],
       "colors": ["Blue"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Durable denim overalls for active kids.",
@@ -680,9 +624,7 @@
       "originalPrice": 49.99,
       "cat_prefix": "kids",
       "subCategory": "jackets",
-      "images": [
-        "https://images.unsplash.com/photo-1716951220992-2bbe913ddbf8"
-      ],
+      "images": ["/products/image-30.jpg"],
       "colors": ["Green", "Navy"],
       "sizes": ["4T", "5T", "6"],
       "desc": "Warm hooded jacket for cool weather.",
@@ -701,9 +643,7 @@
       "originalPrice": 19.99,
       "cat_prefix": "kids",
       "subCategory": "leggings",
-      "images": [
-        "https://images.unsplash.com/photo-1716951910901-3f595611cf3d"
-      ],
+      "images": ["/products/image-31.jpg"],
       "colors": ["Pink", "Black"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Stretchy leggings for comfortable play.",
@@ -722,9 +662,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "kids",
       "subCategory": "dresses",
-      "images": [
-        "https://images.unsplash.com/photo-1716951923523-0c76b14d4852"
-      ],
+      "images": ["/products/image-32.jpg"],
       "colors": ["Pink", "White"],
       "sizes": ["3T", "4T", "5T"],
       "desc": "Cute party dress for special occasions.",
@@ -743,9 +681,7 @@
       "originalPrice": 34.99,
       "cat_prefix": "kids",
       "subCategory": "pajamas",
-      "images": [
-        "https://images.unsplash.com/photo-1714070700737-24acfe6b957c"
-      ],
+      "images": ["/products/image-33.jpg"],
       "colors": ["Blue", "Grey"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Soft pajama set for a good night's sleep.",
@@ -764,9 +700,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "kids",
       "subCategory": "sweatshirts",
-      "images": [
-        "https://images.unsplash.com/photo-1716541424893-734612ddcabb"
-      ],
+      "images": ["/products/image-34.jpg"],
       "colors": ["Red", "Blue"],
       "sizes": ["4T", "5T", "6"],
       "desc": "Cozy sweatshirt for everyday wear.",
@@ -785,9 +719,7 @@
       "originalPrice": 34.99,
       "cat_prefix": "kids",
       "subCategory": "pants",
-      "images": [
-        "https://images.unsplash.com/photo-1716541425103-fcfd4bf88c27"
-      ],
+      "images": ["/products/image-35.jpg"],
       "colors": ["Khaki", "Green"],
       "sizes": ["3T", "4T", "5T"],
       "desc": "Durable cargo pants for outdoor play.",
@@ -806,9 +738,7 @@
       "originalPrice": 49.99,
       "cat_prefix": "kids",
       "subCategory": "jackets",
-      "images": [
-        "https://images.unsplash.com/photo-1716541425064-b07b68f436de"
-      ],
+      "images": ["/products/image-36.jpg"],
       "colors": ["Yellow", "Blue"],
       "sizes": ["4T", "5T", "6"],
       "desc": "Waterproof raincoat for rainy days.",
@@ -827,9 +757,7 @@
       "originalPrice": 29.99,
       "cat_prefix": "kids",
       "subCategory": "skirts",
-      "images": [
-        "https://images.unsplash.com/photo-1633966887768-64f9a867bdba"
-      ],
+      "images": ["/products/image-37.jpg"],
       "colors": ["Pink", "Blue"],
       "sizes": ["2T", "3T", "4T"],
       "desc": "Cute skirt for playful outfits.",
@@ -849,9 +777,7 @@
       "originalPrice": 24.99,
       "cat_prefix": "accessories",
       "subCategory": "hats",
-      "images": [
-        "https://images.unsplash.com/photo-1628068311627-0f5abce65050"
-      ],
+      "images": ["/products/image-38.jpg"],
       "colors": ["Black", "Navy"],
       "sizes": ["One Size"],
       "desc": "Classic baseball cap for a sporty look.",
@@ -870,9 +796,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "accessories",
       "subCategory": "belts",
-      "images": [
-        "https://images.unsplash.com/photo-1716951980904-fbe5c5aa2279"
-      ],
+      "images": ["/products/image-39.jpg"],
       "colors": ["Black", "Brown"],
       "sizes": ["S", "M", "L"],
       "desc": "Premium leather belt for a polished look.",
@@ -891,9 +815,7 @@
       "originalPrice": 69.99,
       "cat_prefix": "accessories",
       "subCategory": "sunglasses",
-      "images": [
-        "https://images.unsplash.com/photo-1716951918731-77d7682b4e63"
-      ],
+      "images": ["/products/image-40.jpg"],
       "colors": ["Black", "Brown"],
       "sizes": ["One Size"],
       "desc": "Stylish sunglasses with UV protection.",
@@ -912,9 +834,7 @@
       "originalPrice": 44.99,
       "cat_prefix": "accessories",
       "subCategory": "scarves",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1690338235263-68f2c173b5cc"
-      ],
+      "images": ["/products/image-41.jpg"],
       "colors": ["Red", "Blue"],
       "sizes": ["One Size"],
       "desc": "Elegant silk scarf for versatile styling.",
@@ -933,9 +853,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "accessories",
       "subCategory": "bags",
-      "images": [
-        "https://images.unsplash.com/photo-1716951884230-84bed04544c5"
-      ],
+      "images": ["/products/image-42.jpg"],
       "colors": ["Beige", "Black"],
       "sizes": ["One Size"],
       "desc": "Durable canvas tote for everyday use.",
@@ -954,9 +872,7 @@
       "originalPrice": 34.99,
       "cat_prefix": "accessories",
       "subCategory": "hats",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1691367279675-0e466cfb5135"
-      ],
+      "images": ["/products/image-43.jpg"],
       "colors": ["Grey", "Black"],
       "sizes": ["One Size"],
       "desc": "Warm wool beanie for cold weather.",
@@ -975,9 +891,7 @@
       "originalPrice": 49.99,
       "cat_prefix": "accessories",
       "subCategory": "wallets",
-      "images": [
-        "https://images.unsplash.com/photo-1651761179569-4ba2aa054997"
-      ],
+      "images": ["/products/image-44.jpg"],
       "colors": ["Black", "Brown"],
       "sizes": ["One Size"],
       "desc": "Sleek leather wallet with multiple compartments.",
@@ -996,9 +910,7 @@
       "originalPrice": 39.99,
       "cat_prefix": "accessories",
       "subCategory": "jewelry",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1690347839113-b5db143123b1"
-      ],
+      "images": ["/products/image-45.jpg"],
       "colors": ["Gold", "Silver"],
       "sizes": ["One Size"],
       "desc": "Bold necklace for a standout look.",
@@ -1017,9 +929,7 @@
       "originalPrice": 99.99,
       "cat_prefix": "accessories",
       "subCategory": "watches",
-      "images": [
-        "https://images.unsplash.com/photo-1716541424935-e28adbd63ca3"
-      ],
+      "images": ["/products/image-46.jpg"],
       "colors": ["Silver", "Black"],
       "sizes": ["One Size"],
       "desc": "Elegant watch with a minimalist design.",
@@ -1038,9 +948,7 @@
       "originalPrice": 69.99,
       "cat_prefix": "accessories",
       "subCategory": "bags",
-      "images": [
-        "https://plus.unsplash.com/premium_photo-1661576995682-d7a7182e1320"
-      ],
+      "images": ["/products/image-47.jpg"],
       "colors": ["Black", "Brown"],
       "sizes": ["One Size"],
       "desc": "Compact crossbody bag for daily essentials.",
@@ -1059,9 +967,7 @@
       "originalPrice": 34.99,
       "cat_prefix": "accessories",
       "subCategory": "jewelry",
-      "images": [
-        "https://images.unsplash.com/photo-1511021269373-5550779a0eb0"
-      ],
+      "images": ["/products/image-48.jpg"],
       "colors": ["Gold", "Silver"],
       "sizes": ["One Size"],
       "desc": "Delicate earrings for everyday wear.",
