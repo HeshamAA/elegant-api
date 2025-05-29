@@ -1,31 +1,39 @@
 // See https://github.com/typicode/json-server#module
-const jsonServer = require('json-server')
+const jsonServer = require('json-server');
+const auth = require('json-server-auth');
 
-const server = jsonServer.create()
 
-// Uncomment to allow write operations
-// const fs = require('fs')
-// const path = require('path')
-// const filePath = path.join('db.json')
-// const data = fs.readFileSync(filePath, "utf-8");
-// const db = JSON.parse(data);
-// const router = jsonServer.router(db)
+const server = jsonServer.create();
+const router = jsonServer.router('db.json');
+const middlewares = jsonServer.defaults();
 
-// Comment out to allow write operations
-const router = jsonServer.router('db.json')
+// قواعد الحماية (يمكن تعديلها حسب الجداول)
+const rules = auth.rewriter({
+  "/register": "/users",
+  "/login": "/login",
+  "/api/*": "/$1",
+  "/blog/:resource/:id/show": "/:resource/:id",
+});
 
-const middlewares = jsonServer.defaults()
 
-server.use(middlewares)
-// Add this before server.use(router)
-server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id'
-}))
-server.use(router)
+
+// وسطيات JSON Server
+server.use(middlewares);
+
+// تطبيق قواعد الحماية
+server.use(rules);
+
+// تطبيق مصادقة JSON Server Auth
+server.use(auth);
+
+// الراوتر
+server.use(router);
+
+// تشغيل السيرفر
 server.listen(3000, () => {
-    console.log('JSON Server is running')
-})
+  console.log('✅ JSON Server + Auth is running on port 3000');
+});
+
 
 // Export the Server API
 module.exports = server
