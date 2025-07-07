@@ -5,7 +5,7 @@
       "password": "$2a$10$GrVL8/GXeleJFY32CB9J8e8FS516PiKZlKWN2dxPZj1Vc1dMRCgBO",
       "firstName": "admin",
       "lastName": "one",
-      "watchlist": [],
+      "wishlist": [],
       "id": "1",
       "role": "admin"
     },
@@ -14,7 +14,7 @@
       "password": "$2a$10$zDtDYwh6NP8WZFRhwCsijuTHrLAg8JOmrERbcofPdNStEIkWPBsIu",
       "firstName": "asd",
       "lastName": "asd",
-      "watchlist": [
+      "wishlist": [
         "1",
         "4"
       ],
@@ -26,7 +26,7 @@
       "password": "$2a$10$0QDNllUy8lECSGNy4hIEluEJh5ueD5qbWY3TCOXCyyHfI.1Q4Kply",
       "firstName": "asdasdasd",
       "lastName": "asdasdasd",
-      "watchlist": [],
+      "wishlist": [],
       "role": "user",
       "id": "4"
     },
@@ -35,7 +35,7 @@
       "password": "$2a$10$0b2V7HI80qQS74fWEIka3uSfJgj68xYy69sz4FzFG1j6RzvTEzt3q",
       "firstName": "none",
       "lastName": "none",
-      "watchlist": [],
+      "wishlist": [],
       "role": "user",
       "id": "5"
     },
@@ -44,7 +44,7 @@
       "password": "$2a$10$PLh4g5AqpH1OSOnoPhPg4O44IY5JeYfV2HiH66513OnFF/uUr1gVu",
       "firstName": "asfdasd",
       "lastName": "agfdsadas",
-      "watchlist": [],
+      "wishlist": [],
       "role": "user",
       "id": "uW6Kt3Y"
     },
@@ -53,7 +53,7 @@
       "password": "$2a$10$RPxI1TM2p6SbvvH1AwwbT.UPYBWlN9uTcWPvs3YcR6vNH82G7U4me",
       "firstName": "mohamed",
       "lastName": "pogba",
-      "watchlist": [],
+      "wishlist": [],
       "role": "user",
       "id": "IZMj5_b"
     },
