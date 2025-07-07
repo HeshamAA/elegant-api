@@ -14,7 +14,7 @@ const rules = auth.rewriter({
   "/blog/:resource/:id/show": "/:resource/:id",
 });
 
-// ✅ الترتيب مهم جداً
+
 
 server.db = router.db; // ✅ هنا بنربط قاعدة البيانات بالسيرفر
 
